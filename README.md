@@ -49,7 +49,7 @@
 
 
  <!--GITHUB-->
- <a href="https://github.com/Victor-Wallace/Victor-Wallace/" target="_blank" rel="noreferrer">
+ <a href="https://github.com/Victor-Wallace/" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  </a>
 </div>
