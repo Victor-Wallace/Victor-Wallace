@@ -1,6 +1,7 @@
 <!--SOBRE MIM-->
 <h1 align="left">Sejá bem vindo! Me chamo Victor Wallace👋<h1>
 <h4 align="left">📚 No momento estou cursando o 2º (Segundo) semestre do Curso Técnico de Desenvolvimento de Sistemas ministrado pelo SENAI (Serviço Nacional de Aprendizagem Industrial).</h4>
+<h4 align="left">📚 Tenho habilidades extra profissionais em vendas e liderança.</h4>
 <!--LINGUAGENS E FERRAMENTAS-->
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display:inline_block">
