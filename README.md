@@ -17,10 +17,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
      <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
-  <!--TYPESCRIPT-->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img align="center" height="40" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  </a>
   <!--PHP-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img align="center" height="40" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -51,45 +47,28 @@
     <img align="center" height="40" width="40" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   </a>
 
- <!--PHOTOSHOP-->
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-   <img align="center" height="40" width="40"  alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
- </a>
+
  <!--GITHUB-->
  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
    <img align="center" height="40" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  </a>
 </div>
-<!--DADOS DO GITHUB-->
-<h3 align="left">Status do GitHub:</h3>
-<div>
-  <p>
-    <img align="center" width="480em" alt="NatanNMendes" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanNMendes&theme=panda"/>
-  </p>
+  
    <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <p>
-    <img align="center" width="480" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanNMendes&show_icons=true&locale=en&layout=compact&theme=panda"/>
+    <img align="center" width="480" alt="NatanNMendes" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-wallace&show_icons=true&locale=en&layout=compact&theme=panda"/>
   </p>
 </div>
+  
 <!--REDES SOCIAIS-->
 <h3 align="left">Redes Sociais:</h3>
 <div align="left" style="display:inline_block">
-  <!--TELEGRAM-->
-  <a href="https://t.me/NatanNMendes" target="blank">
-    <img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/natan-nunes-mendes-desenvolvedorweb/" target="blank">
+  <a href="https://www.linkedin.com/in/victor-wallace-dev-br/" target="blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--INSTAGRAM-->
-  <a href="https://www.instagram.com/invites/contact/?i=i2bcr6zbys7g&utm_content=5atp2hv" target="blank">
-    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!--CODEPEN-->
-  <a href="https://codepen.io/Natan_NUN3S" target="blank">
-    <img align="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
+
+ 
 
   </div>
   
