@@ -39,7 +39,7 @@
   </a>
    <!--TRELLO-->
   <a href="https://trello.com/home" target="_blank" rel="noreferrer">
-    <img align="center" height="40" width="40" alt="trello-icon" src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/trello/trello-plain.svg">
+    <img align="center" height="40" width="40" alt="trello-icon" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/trello/trello-plain.svg">
   </a>
   <!--MYSQL-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -47,7 +47,7 @@
   </a>
 <!--FIREBASE-->
   <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer">
-     <img align="center" height="40" width="40" alt="firebase-icon" src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" height="40" width="40" alt="firebase-icon" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg">
   </a>
   <!--BOOTSTRAP-->
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
